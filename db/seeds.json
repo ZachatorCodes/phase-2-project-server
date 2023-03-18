@@ -2,44 +2,29 @@
   "games": [
     {
       "id": 1,
-      "title": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      "title": "Portal",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Portal_standalonebox.jpg"
     },
     {
       "id": 2,
-      "title": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png"
+      "title": "Borderlands 3",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Borderlands_3_cover_art.jpg"
 
     },
     {
       "id": 3,
-      "title": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217"
+      "title": "Bioshock Infinite",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Official_cover_art_for_Bioshock_Infinite.jpg"
     },
     {
       "id": 4,
-      "title": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png"
+      "title": "It Takes Two",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/It_Takes_Two_cover_art.png"
     },
     {
       "id": 5,
-      "title": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png"
-    },
-    {
-      "id": 6,
-      "title": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png"
-    },
-    {
-      "id": 7,
-      "title": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024"
-    },
-    {
-      "id": 8,
-      "title": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png"
+      "title": "Overwatch",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkNTJkOWUtNTg1ZS00NGZhLWIxMGUtOWE0ZDA0NzRkODM3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
     }
   ]
 }
