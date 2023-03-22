@@ -6,6 +6,6 @@ Additionally, the application can also be used to find all deals for a given onl
 
 ## Installation
 
-To start, please following the fork and clone the repository for the [Bunk Sale's frontend](https://github.com/ZachatorCodes/phase-2-project).
+To begin, please make sure that you've already forked and clone the frontend repository for [Bunk Sales](https://github.com/ZachatorCodes/phase-2-project).
 
 In order to install the backend server for Bunk Sales, first ```fork``` and ```clone``` this repository to your local device.
