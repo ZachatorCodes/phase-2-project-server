@@ -12,4 +12,7 @@ Additionally, the application can also be used to find all deals for a given onl
 
 - Make sure you are in the directory with the db.json file (/db), then run ```json-server --watch db.json --port 4000``` This will run the json server on port 4000, which is the port that Bunk Sales fetches information from.
 
-- IMPORTANT: if you do not have json-server installed, you will need to install it to host the backend server. Please follow the installation instructions found on [JSON Server's NPM Page](https://www.npmjs.com/package/json-server).
+- IMPORTANT: if you do not have json-server installed, you will need to install it to host the backend server. Please follow the installation instructions found on [JSON Server's NPM Page](https://www.npmjs.com/package/json-server). To install the package globally, add the ```-g``` tag in between install and json-server.
+
+Normal Install: ```npm i json-server``` or ```npm install json-server```
+Global Install: ```npm i -g json-server``` or ```npm install -g json-server```
